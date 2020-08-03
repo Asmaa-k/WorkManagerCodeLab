@@ -1,7 +1,7 @@
 # WorkManagerCodeLab
 Follow the steps of the android developer codelab for workmanager
 
-![Screenshot_20200803-130420_Blur-O-Matic (2)](https://user-images.githubusercontent.com/47636256/89174845-308fee00-d58f-11ea-8f8d-426596461de7.png)  ![Screenshot_20200803-130426_Gallery (2)](https://user-images.githubusercontent.com/47636256/89174929-5d440580-d58f-11ea-980d-b359f2d93024.jpg)
+![Screenshot_20200803-130420_Blur-O-Matic (2)](https://user-images.githubusercontent.com/47636256/89174845-308fee00-d58f-11ea-8f8d-426596461de7.png)![Screenshot_20200803-130426_Gallery (2)](https://user-images.githubusercontent.com/47636256/89174929-5d440580-d58f-11ea-980d-b359f2d93024.jpg)
 
 WorkManager Codelab
 ===================================
