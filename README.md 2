@@ -4,27 +4,6 @@ WorkManager Codelab
 This repository contains the code for the
 [WorkManager Codelab](https://codelabs.developers.google.com/codelabs/android-workmanager):
 
-Java version
---------------
-
-The Java version of this codelab is available under the
-[`Java`](https://github.com/googlecodelabs/android-workmanager/tree/java) branch of this
-repository.
-
-Introduction
-------------
-
-At I/O 2018 Google announced [Android Jetpack](https://developer.android.com//jetpack/),
-a collection of libraries, tools and architectural guidance to accelerate and simplify the
-development of great Android apps. One of those libraries is the
-[WorkManager library](https://developer.android.com/topic/libraries/architecture/workmanager/).
-The WorkManager library provides a unified API for deferrable one-off or recurring background tasks
-that need guaranteed execution. You can learn more by reading the
-[WorkManager Guide](https://developer.android.com/topic/libraries/architecture/workmanager/), the
-[WorkManager Reference](https://developer.android.com/reference/androidx/work/package-summary)
-or doing the
-[WorkManager Codelab](https://codelabs.developers.google.com/codelabs/android-workmanager).
-
 Pre-requisites
 --------------
 
@@ -43,15 +22,6 @@ In particular:
 * Some familiarity with Uris and File I/O
 * Familiarity with [LiveData](https://developer.android.com/topic/libraries/architecture/livedata)
   and [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
-
-Getting Started
----------------
-
-1. [Install Android Studio](https://developer.android.com/studio/install.html),
-if you don't already have it.
-2. Download the sample.
-2. Import the sample into Android Studio.
-3. Build and run the sample.
 
 License
 -------
@@ -76,3 +46,10 @@ distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
 WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
 License for the specific language governing permissions and limitations under
 the License.
+
+
+Result
+-------
+![Screenshot_20200803-130420_Blur-O-Matic (1)](https://user-images.githubusercontent.com/47636256/89172650-a4c89280-d58b-11ea-81ce-0c1d89711445.png)
+
+![Screenshot_20200803-130426_Gallery (1)](https://user-images.githubusercontent.com/47636256/89172725-c590e800-d58b-11ea-8047-f4c972f8a27d.jpg)
